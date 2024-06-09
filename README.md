@@ -50,7 +50,7 @@ First, ``cd backend`` to the backend folder. Then run ``node server.js`` to run 
 Guoxiang Ran, Southeast University, China; https://github.com/Squincat <br>
 Hongwen Pu, Dulwich College (Singapore), Singapore; https://github.com/boypu123 <br>
 Minghua Ying, Southeast University, China; https://github.com/ahuahaha <br>
-Raykio (Keyi) Yi, Dulwich College (Suzhou), China; https://github.com/Raykxia
+Raykio (Keyi) Yi, Dulwich International High School Suzhou, China; https://github.com/Raykxia
 
 
 ## Acknowledgement
